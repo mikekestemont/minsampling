@@ -1,5 +1,7 @@
 # Estimating the Loss of Medieval Literature with an Unseen Species model from Ecodiversity
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4030681.svg)](https://doi.org/10.5281/zenodo.4030681)
+
 This repository accompanies a short paper for the first [Computational Humanities Research Workshop](https://www.computational-humanities-research.org/) (18-20 november 2020; to be held online):
 
 > M. Kestemont & F. Karsdorp, 'Estimating the Loss of Medieval Literature with an Unseen Species model from Ecodiversity'. *Computational Humanities Research Workshop*. Amsterdam [online], 18-20 november 2020.
