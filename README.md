@@ -1,10 +1,10 @@
 # Estimating the Loss of Medieval Literature with an Unseen Species model from Ecodiversity
 
-<img src="https://github.com/mikekestemont/minsampling/blob/master/figures/accumulation.pdf?raw=true" alt="Example image of a species accumulation curve"/>
-
 This repository accompanies a short paper for the first [Computational Humanities Research Workshop](https://www.computational-humanities-research.org/) (18-20 november 2020; to be held online):
 
 > M. Kestemont & F. Karsdorp, 'Estimating the Loss of Medieval Literature with an Unseen Species model from Ecodiversity'. *Computational Humanities Research Workshop*. Amsterdam [online], 18-20 november 2020.
+
+![Example image of a species accumulation curve](figures/accumulation.png)
 
 This repository that contains all the code and software (with some documentation interwoven) necessary to replicate our findings; this (and each future release) will be archived on [Zenodo](https://zenodo.org/). The paper offers a more technical complement to and extension of a Dutch-language journal article that was previously published, but which was targeted at a broader audience of literary historians:
 
